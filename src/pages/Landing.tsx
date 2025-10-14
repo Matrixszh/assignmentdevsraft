@@ -73,7 +73,7 @@ export default function Landing() {
               transition="all 0.3s"
               onClick={() => navigate('/register')}
             >
-              Start Free Trial
+              Register Now
             </Button>
             <Button
               size="lg"
